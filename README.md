@@ -1,3 +1,5 @@
 # hello-world
-A little description about my new project in github.
-Hi! I'm kristyn and i'm learning about git rigth now!
+
+Hi humans!
+
+Kristyn here! I loke Node.js and Coffeescript (that's what I made of!).
